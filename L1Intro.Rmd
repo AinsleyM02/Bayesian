@@ -1,0 +1,55 @@
+---
+title: "Lecture1Intro"
+author: "Ainsley McLaughlin"
+date: "2024-08-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+## Baysian:
+- Bayesian inference:
+- Understand process of priors (Prior selection-guesses about model we are fitting)
+    - Why diff priors appropriate in diff situations
+    - impact of prior choice on model performance
+- Understand the process of Bayesian Interence
+    - what are conjugate priors
+    - how do samplers work and why do we need them
+- Bayesian Hierarchical Regression (mixed effect/ multi level models) (this is the     end of content for the final)
+    - for clustered data- for data that is not iid
+- Overview of bayesian machine learning techniques and why and when
+- Overview of more advanced bayesian methods (time permitting)
+
+Course outline:
+prob+ inference
+bayesian stat
+priors conjugates
+bayesian inference
+samplers, variational interence
+prob programming langs- stan, 
+bayesian linear regression in brms
+bayesian machine learning overview (time permitting)
+
+
+
+```{r cars}
+
+```
+
+```{r cars}
+
+```
+
+```{r cars}
+
+```
+
+```{r cars}
+
+```
+
+```{r cars}
+
+```
